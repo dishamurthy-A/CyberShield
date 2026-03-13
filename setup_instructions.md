@@ -53,15 +53,10 @@ streamlit run main_app.py
 
 ---
 
-## 3. Edit `demo_video_link.txt`
 
-1. Click on **`demo_video_link.txt`**
-2. Click **pencil icon ✏️** to edit
-3. Paste this (update with your actual link later):
-```
 Demo Video Link
 ===============
 
 YouTube/Google Drive link will be added after recording.
 
-[PLACEHOLDER - Add your demo video link here]
+[[PLACEHOLDER - Add your demo video link here]](https://youtu.be/H6l7mJxxDtY)
