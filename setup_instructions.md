@@ -59,4 +59,4 @@ Demo Video Link
 
 YouTube/Google Drive link will be added after recording.
 
-[[PLACEHOLDER - Add your demo video link here]](https://youtu.be/H6l7mJxxDtY)
+[[PLACEHOLDER - https://youtu.be/H6l7mJxxDtY]]
