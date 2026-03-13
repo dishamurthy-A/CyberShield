@@ -48,8 +48,6 @@ streamlit run main_app.py
 - Download links are provided in README.md
 ```
 
-4. **Commit message:** `Added setup instructions`
-5. Click **Commit changes**
 
 ---
 
