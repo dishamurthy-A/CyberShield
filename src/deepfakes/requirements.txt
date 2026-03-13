@@ -1,0 +1,10 @@
+﻿streamlit
+torch==2.1.0
+timm==0.9.16
+opencv-python
+Pillow
+torchvision
+scikit-learn
+scipy
+matplotlib
+numpy
