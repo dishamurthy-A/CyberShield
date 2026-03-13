@@ -1,1 +1,10 @@
+CyberShield - Demo Video
+=========================
 
+YouTube Link (Unlisted): https://youtu.be/H6l7mJxxDtY
+
+This video demonstrates:
+- Phishing email detection
+- Fake news detection
+- Deepfake detection
+- Unified CyberShield dashboard
